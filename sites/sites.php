@@ -57,3 +57,4 @@
 $sites['sitevs0357.evolverinc.tech'] = 'all';
 $sites['subsitevs0020.evolverinc.tech'] = 'subsitevs0020.evolverinc.tech';
 $sites['subsitevs0021.evolverinc.tech'] = 'subsitevs0021.evolverinc.tech';
+$sites['subsitevs0022.evolverinc.tech'] = 'subsitevs0022.evolverinc.tech';
